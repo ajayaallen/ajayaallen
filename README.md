@@ -1,11 +1,11 @@
-# Hey <img src="img/Hi.gif" width="30px" height="30px" width="35px">, I am <a href="https://ajayshah.tech/" target="_blank" style="color:red">Ajay !</a>
+# Hey <img src="img/Hi.gif" width="30px" height="30px" width="35px">, I am [Ajay !](https://ajayshah.tech/)
 
-<a style="margin-bottom:10px" href="https://ajayshah.tech/" target="_blank"><img src="img/a.svg" width="30px" height="30px"></a>
-<a style="margin-bottom:10px" href="https://dev.to/ajayaallen" target="_blank"><img src="img/dev-badge.svg" width="30px" height="30px"></a>
-<a style="margin-bottom:10px" href="https://twitter.com/AjayKum24335319" target="_blank"><img src="img/twitter.svg" width="30px" height="30px"></a>
-<a style="margin-bottom:10px" href="https://www.linkedin.com/in/ajayaallen/" target="_blank"><img src="img/linkedin.svg" width="30px" height="30px"></a>
-<a style="margin-bottom:10px" href="https://www.facebook.com/ajayaallen" target="_blank"><img src="img/facebook.svg" width="30px" height="30px"></a>
-<a style="margin-bottom:10px" href="https://www.instagram.com/ajayaallen/" target="_blank"><img src="img/instagram.svg" width="30px" height="30px"></a>
+<a href="https://ajayshah.tech/" target="_blank"><img src="img/a.svg" width="30px" height="30px"></a>
+<a href="https://dev.to/ajayaallen" target="_blank"><img src="img/dev-badge.svg" width="30px" height="30px"></a>
+<a href="https://twitter.com/AjayKum24335319" target="_blank"><img src="img/twitter.svg" width="30px" height="30px"></a>
+<a href="https://www.linkedin.com/in/ajayaallen/" target="_blank"><img src="img/linkedin.svg" width="30px" height="30px"></a>
+<a href="https://www.facebook.com/ajayaallen" target="_blank"><img src="img/facebook.svg" width="30px" height="30px"></a>
+<a href="https://www.instagram.com/ajayaallen/" target="_blank"><img src="img/instagram.svg" width="30px" height="30px"></a>
 
 ### About Me 🚀
 
