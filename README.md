@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/ajayaallen" target="_blank"><img src="img/facebook.svg" width="30px" height="30px"></a>
 <a href="https://www.instagram.com/ajayaallen/" target="_blank"><img src="img/instagram.svg" width="30px" height="30px"></a>
 
-### About Me 🚀
+## About Me 🚀
 
 👨‍💻 I am Full-Stack Developer, I love creating web apps.<br>
 👨‍💻 I am interested in Machine learning and Data Science
