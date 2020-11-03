@@ -4,7 +4,8 @@
 
 ### About Me 🚀
 
-👨‍💻 I am Full-Stack Developer, I love creating web apps.
+👨‍💻 I am Full-Stack Developer, I love creating web apps.<br>
 👨‍💻 I am interested in Machine learning and Data Science
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayaallen&layout=compact&theme=gruvbox"> <img src="https://github-readme-stats.vercel.app/api?username=ajayaallen&show_icons=true&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayaallen&layout=compact&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api?username=ajayaallen&show_icons=true&theme=gruvbox">
